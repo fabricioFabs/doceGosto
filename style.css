@@ -191,14 +191,17 @@
      font-size: 50px;
      font-weight: bold;
      padding: 30px;
+     text-align: right;
  }
 
 
  .title-quarta h3 {
      font-size: 20px;
      font-weight: bold;
-     padding: 30px;
+     padding-bottom: 30px;
+     padding-left: 2%;
      width: 100%;
+     text-align: right;
  }
 
  .subscribe {
